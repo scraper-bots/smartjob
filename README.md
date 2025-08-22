@@ -25,9 +25,9 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Quick Test (5 candidates)
+### Full Scraping (All 93 Pages)
 ```bash
-python3 quick_test.py
+python3 full_scrape.py
 ```
 
 ### Scrape Specific Pages
